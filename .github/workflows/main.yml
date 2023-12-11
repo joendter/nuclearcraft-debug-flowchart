@@ -16,6 +16,11 @@ jobs:
       with:
         src:  nc-reactor-debug-chart.drawio.xml
         dest: test.png
+    - name: jpeg
+      uses: ./
+      with:
+        src:  nc-reactor-debug-chart.drawio.xml
+        dest: test.jpeg
     - name: make release
       id: create_release
       uses:  actions/create-release@v1
