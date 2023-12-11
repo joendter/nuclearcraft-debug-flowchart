@@ -9,14 +9,20 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout code
     - uses: actions/checkout@v2
     - name: Convert test file to png image
       uses: Burnett01/actions-drawio@1.2
       with:
         src:  nc-reactor-debug-chart.drawio.xml
         dest: test.png
-    - name: Upload image as artifact
-      uses: actions/upload-artifact@v1
+    - name: make release
+      id: create_release
+      uses:  actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
       with:
-        name: png
-        path: test.png
+        tag_name: test
+        release_name: test
+        
+        
