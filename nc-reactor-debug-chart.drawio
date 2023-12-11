@@ -1,0 +1,243 @@
+<mxfile host="Electron" modified="2023-12-11T19:59:22.435Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="uvhKpqa2_L0OH-IVetQG" version="22.1.2" type="device">
+  <diagram name="Page-1" id="Vq-3KzRNK1XOQ5qBDJZC">
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-1" target="5oCqAr5ViNoRnyA4Thuo-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-1" value="Start here" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="80" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-5" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-2" target="5oCqAr5ViNoRnyA4Thuo-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-2" target="5oCqAr5ViNoRnyA4Thuo-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-2" value="Do you have Heat Sinks from nuclearcraft in JEI?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="290" y="355" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-4" target="5oCqAr5ViNoRnyA4Thuo-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-4" value="Overhauled" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="305" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-6" target="5oCqAr5ViNoRnyA4Thuo-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-6" value="Underhauled" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-8" target="5oCqAr5ViNoRnyA4Thuo-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-8" target="5oCqAr5ViNoRnyA4Thuo-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-8" value="Is the reactor running?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="325" y="790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-13" value="Controller" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-10" target="5oCqAr5ViNoRnyA4Thuo-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-15" value="Fuel Cells" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-10" target="5oCqAr5ViNoRnyA4Thuo-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="364.9999999999998" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-10" value="What part of the reactor is melting down?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="325" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-12" value="Check if the reactor gets enough Water and the Steam gets removed" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="130" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-16" target="5oCqAr5ViNoRnyA4Thuo-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-16" value="Download the&amp;nbsp;&lt;a href=&quot;https://github.com/ThizThizzyDizzy/nc-reactor-generator/releases&quot;&gt;plannerator&lt;/a&gt;&amp;nbsp;and open/ import/ recreate your design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-20" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-17" target="5oCqAr5ViNoRnyA4Thuo-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-22" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-17" target="5oCqAr5ViNoRnyA4Thuo-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-17" value="Do all clusters have negative net heat?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="315" y="1200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-24" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-19" target="5oCqAr5ViNoRnyA4Thuo-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-19" target="5oCqAr5ViNoRnyA4Thuo-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-19" value="Are all fuel cells supplied with the &lt;b&gt;right&lt;/b&gt; fuel?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="470" y="1200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-21" value="Fix the reactor so they have" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-23" value="Make sure you did not accidentally filter the fuel cells and ports in unintended ways and supply enough fuel" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-28" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-25" target="5oCqAr5ViNoRnyA4Thuo-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699.9999999999998" y="1335.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-41" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-25" target="5oCqAr5ViNoRnyA4Thuo-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-25" value="Does your design have irradiators?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="650" y="1200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-29" target="5oCqAr5ViNoRnyA4Thuo-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-29" value="Remove all irradiators in the plannerator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-35" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-30" target="5oCqAr5ViNoRnyA4Thuo-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-45" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-30" target="5oCqAr5ViNoRnyA4Thuo-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-30" value="Is the reactor still heat stable?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-39" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-32" target="5oCqAr5ViNoRnyA4Thuo-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-42" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-32" target="5oCqAr5ViNoRnyA4Thuo-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-32" value="Are you using an irradiator recipe with the same heat production as the one in the planned reactor?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="625" y="1700" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-34" value="Ensure that the reactor is supplied with the correct irradiator inputs at all times" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="505" y="1445" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-38" value="Check if the reactor is compatible in the plannerator, if not, adjust it" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-40" target="5oCqAr5ViNoRnyA4Thuo-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-40" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-44" target="5oCqAr5ViNoRnyA4Thuo-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-44" value="Readd all the irradiators/ undo/ reload the file" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-54" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-52" target="5oCqAr5ViNoRnyA4Thuo-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-56" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-52" target="5oCqAr5ViNoRnyA4Thuo-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-52" value="Is the reactor built according to your design (no missing/ wrong blocks)" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="297.5" y="630" width="135" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-55" target="5oCqAr5ViNoRnyA4Thuo-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-55" value="Build it correctly" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="70" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-63" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-58" target="5oCqAr5ViNoRnyA4Thuo-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-65" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-58" target="5oCqAr5ViNoRnyA4Thuo-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-58" value="Is the reactor running?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="500" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-62" value="Supply fuel and redstone signal to the controller" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-67" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-64" target="5oCqAr5ViNoRnyA4Thuo-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-71" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-64" target="5oCqAr5ViNoRnyA4Thuo-70" edge="1">
+          <mxGeometry x="-0.8346" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="445" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-64" value="Is the design heat negative" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="660" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-68" value="Use the Comparator Loop™ to shut the reactor down before it overheats" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="830" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-70" value="Ask on discord for help (don&#39;t forget to get a role in #commands for pics, files and embeds" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="410" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-75" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-72" target="5oCqAr5ViNoRnyA4Thuo-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-77" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-72" target="5oCqAr5ViNoRnyA4Thuo-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-72" value="Are all the neutron sources provided with a redstone signal?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="485" y="770" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-74" value="Provide them with a simultaineous redstone signal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="487.5" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-76" target="5oCqAr5ViNoRnyA4Thuo-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-76" value="Download the&amp;nbsp;&lt;a href=&quot;https://github.com/ThizThizzyDizzy/nc-reactor-generator/releases&quot;&gt;plannerator&lt;/a&gt;&amp;nbsp;and open/ import/ recreate your design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="655" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-81" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-78" target="5oCqAr5ViNoRnyA4Thuo-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-83" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-78" target="5oCqAr5ViNoRnyA4Thuo-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-78" value="Do all cells have enough neutron flux?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="840" y="780" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-80" value="Fix the design" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="830" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-85" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-82" target="5oCqAr5ViNoRnyA4Thuo-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5oCqAr5ViNoRnyA4Thuo-82" target="5oCqAr5ViNoRnyA4Thuo-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-87" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5oCqAr5ViNoRnyA4Thuo-86" vertex="1" connectable="0">
+          <mxGeometry x="-0.5023" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-82" value="Are enough cells primed?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5oCqAr5ViNoRnyA4Thuo-84" value="Add more neutron sources" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
