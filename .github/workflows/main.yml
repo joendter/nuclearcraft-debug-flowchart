@@ -1,0 +1,22 @@
+name: main
+on:
+  push:
+    branches:
+    - main
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Convert test file to png image
+      uses: Burnett01/actions-drawio@1.2
+      with:
+        src:  nc-reactor-debug-chart.drawio 
+        dest: test.png
+    - name: Upload image as artifact
+      uses: actions/upload-artifact@v1
+      with:
+        name: png
+        path: test.png
